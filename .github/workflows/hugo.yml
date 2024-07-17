@@ -1,4 +1,4 @@
-name: github pages
+name: Github Pages
 
 on:
   push:
@@ -10,12 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          submodules: true 
+          submodules: true
+          fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.80.0'
 
