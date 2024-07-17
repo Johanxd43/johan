@@ -1,11 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
-    <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on </description>
+    <title>Tags on Johan Hernandez&#39;s Developer Portfolio</title>
+    <link>http://localhost:1313/johan/tags/</link>
+    <description>Recent content in Tags on Johan Hernandez&#39;s Developer Portfolio</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/johan/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/johan/tags/css/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/johan/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>http://localhost:1313/johan/tags/html/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/johan/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/johan/tags/markdown/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/johan/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>http://localhost:1313/johan/tags/themes/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/johan/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laoreet</title>
+      <link>http://localhost:1313/johan/tags/laoreet/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/johan/tags/laoreet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mollis Urna</title>
+      <link>http://localhost:1313/johan/tags/mollis-urna/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/johan/tags/mollis-urna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/johan/tags/notes/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/johan/tags/notes/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
