@@ -1,0 +1,12 @@
+# Archivos generados
+node_modules/
+public/
+venv/
+
+# Archivos del sistema
+*.log
+*.DS_Store
+Thumbs.db
+
+# Configuración local
+.hugo_build.lock
