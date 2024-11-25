@@ -1,9 +1,0 @@
-baseURL = "https://johanxd43.github.io/johan/"
-languageCode = "en-us"
-title = "Johan Hernandez's Developer Portfolio"
-theme = "aafu"
-publishDir = "public"
-
-[params]
-  author = "Johan Hernandez"
-  description = "Developer Portfolio showcasing projects in quantum computing and AI."
