@@ -1,12 +1,22 @@
-# Archivos generados
+# Node.js
 node_modules/
-public/
-venv/
-
-# Archivos del sistema
 *.log
-*.DS_Store
-Thumbs.db
 
-# Configuración local
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Hugo
+public/
+resources/_gen/
 .hugo_build.lock
+
+# Editor/IDE
+.vscode/
+.idea/
+.DS_Store
+
+# GitHub Workflow secrets or temporary files
+.github/.env
